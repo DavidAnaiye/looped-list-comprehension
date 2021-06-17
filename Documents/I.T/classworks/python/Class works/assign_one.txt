@@ -1,0 +1,20 @@
+Given the list
+    names = ['john', 'jacob', 'anabel', 'jonathan', 'jack', 'tabita', 'winifred', 'jalang']
+
+- loop through the lists and return true for names that begin with the letter 'j' else return false
+    hint: print('its {} that {} begins with a "j"'.format(True/False, name))
+
+- loop through and return the name with the longest length
+
+- sort through the names and print them individually with their index(position)
+
+- find the length of all names in the list
+
+- find the length of the list
+
+- loop through the list and return the names whose length are even numbers
+
+- loop through the list and return the names whose length are odd numbers
+
+
+    use the print(''.format()) syntax for all your outputs
